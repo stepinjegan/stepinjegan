@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-<img src="https://www.photobox.co.uk/my/photo/full?photo_id=503107633007">
- 
- 
+<img src="https://img.techpowerup.org/200713/p.jpg">
       I am a Student,
 	            Ready to Learn,
 				Web Developer,
